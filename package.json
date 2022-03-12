@@ -1,0 +1,21 @@
+{
+  "name": "playwright-egg-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/redfit/playwright-egg-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redfit/playwright-egg-demo/issues"
+  },
+  "homepage": "https://github.com/redfit/playwright-egg-demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.19.2"
+  }
+}
